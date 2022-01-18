@@ -1,5 +1,13 @@
-### Hi there 👋
 
+😄 Nelson Omondi😄
+
+ 💻 frontend developer💻
+ 
+ 👯 I’m looking to collaborate on frontend
+ 
+ 🌱 Appreciating the coding community  and support 😇
+ 
+ 📫reach me out at nelsonomondi99@gmail.com or even here!?
 <!--
 **nelson360/nelson360** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
