@@ -1,13 +1,13 @@
 
 😄 Nelson Omondi😄
 
- 💻 frontend developer💻
+ 💻 frontend developer💻 chess lover
  
- 👯 I’m looking to collaborate on frontend
+ 👯 I’m looking to collaborate on frontend backend design
  
  🌱 Appreciating the coding community  and support 😇
  
- 📫reach me out at nelsonomondi99@gmail.com or even here!?
+ 📫reach me out at nelsonomondi99@gmail.com or even here create an issue!?
 <!--
 **nelson360/nelson360** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
