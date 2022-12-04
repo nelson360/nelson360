@@ -1,8 +1,8 @@
 import { createRouter, createWebHistory } from "vue-router";
 import HeaderComponent from '/src/components/HeaderComponent.vue'
-import AboutComponent from '/src/AboutComponent.vue'
-import QualificationComponent from '/src/QualificationComponent.vue'
-import ContactComponent from '/src/ContactComponent.vue'
+import AboutComponent from '/src/components/AboutComponent.vue'
+import QualificationComponent from '/src/components/QualificationComponent.vue'
+import ContactComponent from '/src/components/ContactComponent.vue'
 
 const routes = [
     {
