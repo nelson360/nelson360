@@ -10,7 +10,7 @@ git init
 
 git add -A
 
-git commit -m 'deploy production'
+git commit -m'deploy production'
 
 git push -f git@github.com:nelson360/nelson360.git master:gh-pages
 
