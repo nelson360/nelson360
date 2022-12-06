@@ -1,9 +1,12 @@
 
-😄 Nelson Omondi😄
+
+<marquee>😄 Nelson Omondi😄</marquee>
+
+
 
  💻 frontend developer💻 chess lover
  
- 👯 I’m looking to collaborate on frontend backend design
+ 👯 I’m looking forward to contribute 
  
  🌱 Appreciating the coding community  and support 😇
  
