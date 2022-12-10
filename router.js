@@ -1,5 +1,6 @@
 import { createRouter, createWebHistory } from "vue-router";
 import HeaderComponent from '/src/components/HeaderComponent.vue'
+import App  from '/src/App.vue'
 import AboutComponent from '/src/components/AboutComponent.vue'
 import QualificationComponent from '/src/components/QualificationComponent.vue'
 import ContactComponent from '/src/components/ContactComponent.vue'
@@ -8,7 +9,11 @@ const routes = [
     {
       path: '/',
       //name: 'home',
-      component: HeaderComponent
+      component: App
+    },
+    {
+      path:'',
+      component: HeaderComponent 
     },
     {
       path: '/AboutComponent',

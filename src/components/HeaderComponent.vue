@@ -1,13 +1,12 @@
 <template>
   <nav>
     <ul>
-      <li><router-link to="/app">Home</router-link></li>
+      <li><router-link to="/">Home</router-link></li>
       <li><router-link to="/AboutComponent">About</router-link></li>
       <li><router-link to="/QualificationComponent">qualification</router-link></li>
       <li><router-link to="/ContactComponent">Contact</router-link></li>
    
   </ul>
-  
 </nav>
 
 </template>
@@ -21,7 +20,7 @@ export default {
 
 <style>
 nav {
-   
+  position: absolute;
   width: 100%;
   line-height: 1.4em;
 }

@@ -1,33 +1,31 @@
 <template>
-  
   <HeaderComponent/>
-  <RouterView/>                                                                                                                                                                                                                                                                                                                                                                                         >
- 
- 
-  <BodyComponent/>
- 
+  <RouterView />
+  <BodyType/>
   <FooterComponent/>
  
 </template>
 
 <script>
 
-import HeaderComponent from './components/HeaderComponent.vue'
-import BodyComponent from './components/BodyComponent.vue'
-import FooterComponent from './components/FooterComponent.vue'
+
+
+import HeaderComponent from '/src/components/HeaderComponent.vue'
+import BodyType from '/src/components/BodyType.vue';
+import FooterComponent from '/src/components/FooterComponent.vue'
 
 
 export default {
   name: 'App',
   components: {
     HeaderComponent,
-    BodyComponent,
-    FooterComponent,
+    BodyType,
+    FooterComponent
     
 }
 }
 </script>
 
 <style>
-
+.def{}
 </style>

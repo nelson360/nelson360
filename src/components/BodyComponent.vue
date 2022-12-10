@@ -1,15 +1,26 @@
 <template>
-/* eslint-disable */
-<p>Chuck Norris has never blinked in his entire life. Never. M.C. Hammer learned the hard way that Chuck Norris can touch this. When Chuck Norris does a pushup, he’s pushing the Earth down. Chuck Norris can slam revolving doors. Chuck Norris beats rock, paper, scissors. Cannon balls, tanks, super destroyers, exploding stars — I could go on.
-</p>
-</template>
-<script>
+<br><br><br><br> <br><br><br><br><br>
 
+<BodyBody />
+</template>
+
+<script>
+import BodyBody from '/src/components/BodyBody.vue';
 export default {
-  name: 'BodyComponent',
-  
+    name: 'BodyComponent',
+    components: {
+        BodyBody
+    }
+
 }
 </script>
 
+<style>
+.big {
+    font-size: 200%;
+}
 
-<style></style>
+body {
+    background-color: rgb(144, 184, 219);
+}
+</style>

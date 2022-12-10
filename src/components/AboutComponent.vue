@@ -1,6 +1,13 @@
 <template>
-    <p>about me </p>
-    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam accusamus mollitia voluptates expedita repudiandae, illo ipsum consequuntur voluptatum animi rerum dignissimos quo at impedit nesciunt vero modi veniam fugit nostrum ex. Adipisci excepturi consectetur beatae nostrum iure saepe fuga tenetur voluptatibus voluptate sed, sunt modi.</p>
+    <br><br> <br><br><br><br><br> <br>
+    
+    <div class="">about me</div>
+    <div>
+        about me 
+        <br><u>subject</u><br><br>
+        1.lichess rating<br><br>
+        long stories<br><br>
+    </div>
 </template>
 <script>
     export default {
