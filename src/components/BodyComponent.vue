@@ -19,6 +19,10 @@ export default {
 .big {
     font-size: 200%;
 }
+.yellow{
+    font-size: large;
+    color: yellow;
+}
 
 body {
     background-color: rgb(144, 184, 219);

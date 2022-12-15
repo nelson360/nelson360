@@ -1,10 +1,12 @@
 <template>
   <nav>
     <ul>
-      <li><router-link to="/">Home</router-link></li>
-      <li><router-link to="/AboutComponent">About</router-link></li>
-      <li><router-link to="/QualificationComponent">qualification</router-link></li>
-      <li><router-link to="/ContactComponent">Contact</router-link></li>
+      
+      <li> <a href="#About">About</a></li>
+      <li>
+      <a href="#Qualification">Qualification</a></li>
+      <li>
+      <a href="#Contact">Contact</a></li>
    
   </ul>
 </nav>
