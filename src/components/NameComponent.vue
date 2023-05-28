@@ -2,7 +2,7 @@
 <div class="name">nelson omondi odhiambo</div>
 <div class="">Full stack developer</div><div class="">+254779477821<br>+254741192882</div>
 
-<div class=""><p>lichess &nbsp; &nbsp; &nbsp;  &nbsp;          chess.com </P></div>
+
 </template>
 
 <script>

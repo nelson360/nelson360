@@ -1,6 +1,6 @@
 
 
-<marquee>😄 Nelson Omondi😄</marquee>
+<marquee>Nelson Omondi</marquee>
 
 
 
@@ -10,6 +10,6 @@
  
  🌱 Appreciating the coding community  and support 😇
  
- 📫reach me out at nelsonomondi99@gmail.com or even here create an issue!?
+ 📫reach me out at nelsonomondi99@gmail.com 
 
 

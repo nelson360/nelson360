@@ -1,26 +1,32 @@
 <template>
 <br><br> <br><br><br><br><br> <br>
 <div id="About">
-    <div class="Aboutext">about me</div>
+    <div class="Aboutext">MILITARY CLOCK</div>
     <hr>
     <div class="hey">
         <div class="hey">Hey</div><br>
 
     </div>
     <div class="AboutContent">
-        Am Nelson 0mondi Odhiambo,<br>
-        Kenyan citizen by birth, residing in Mombasa, full stack developer, Adult chess improver:connect on <a href="lichess.com">lichess</a> or <a href="chess.com ">chess.com</a>
+        Am Nelson Omondi,<br>
+        <p>You want to see something cool,</p>
+        <P> well checkout this Military clock !</P>
 
         <br><br>
+        <MilitaryClock/>
     </div>
-    
-
+    <br>
+    <br><br><br><br><br>
 </div>
 </template>
 
 <script>
+import MilitaryClock from './MilitaryClock.vue';
 export default {
     name: 'AboutComponent',
+    components:{
+        MilitaryClock
+    }
 
 }
 </script>
